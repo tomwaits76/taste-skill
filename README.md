@@ -72,7 +72,10 @@ If you find **taste-skill** useful, consider sponsoring the development.
 
 ### Current Sponsors
 
-<a href="https://github.com/mccun934"><img src="https://github.com/mccun934.png" width="40" height="40" style="border-radius:50%" alt="mccun934" /></a>
+<a href="https://github.com/mccun934"><img src="https://github.com/mccun934.png" width="40" height="40" style="border-radius:50%" alt="mccun934" title="mccun934" /></a>
+<a href="https://github.com/supply-guy"><img src="https://github.com/supply-guy.png" width="40" height="40" style="border-radius:50%" alt="supply-guy" title="supply-guy" /></a>
+<a href="https://github.com/ghughes7"><img src="https://github.com/ghughes7.png" width="40" height="40" style="border-radius:50%" alt="ghughes7" title="ghughes7" /></a>
+<a href="https://github.com/AtharvaJaiswal005"><img src="https://github.com/AtharvaJaiswal005.png" width="40" height="40" style="border-radius:50%" alt="AtharvaJaiswal005" title="AtharvaJaiswal005" /></a>
 
 ## Research
 
